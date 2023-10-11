@@ -3,6 +3,8 @@
 ## Online Shopping Page
 This is an online shopping page that displays 10 products on a grid, along with their prices and names. Each product has a "buy" button underneath it. The page also includes a footer with a horizontal form for collecting customer contact details, and a small company logo.
 
+Link: https://juliakanik.github.io/Bootstrap-Online-Shopping-Page/
+
 ### Features
 - 10 products displayed on a grid using the Bootstrap grid system.
 - Responsive images that change when the user moves their mouse over them.
